@@ -24,3 +24,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Added by DPS.
+# Ignore backup file system & text editors.
+*~
