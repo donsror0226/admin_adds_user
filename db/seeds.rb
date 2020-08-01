@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+## Add by DPS
+HolidayList.create(name: "Christmas Day", date: "2017-12-25")
+HolidayList.create(name: "Diwali", date: "2017-10-19")
